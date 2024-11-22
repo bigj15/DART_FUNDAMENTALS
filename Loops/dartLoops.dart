@@ -11,7 +11,7 @@ for(var name in names){
   print(name);
 }
 
-//While loop
+//While loop Jedel
 while(num >= 1){
   print(num);
   num--;
