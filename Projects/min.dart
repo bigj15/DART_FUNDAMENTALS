@@ -51,6 +51,8 @@ else if(option == 5){
 else if(option == 6){
   result = sqrt(num2);
   print("Your answer is $result");
-
 }
+else(){
+  print("Invalid option input. Select a valid option (1-6)");
+};
 }
